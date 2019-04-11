@@ -83,7 +83,7 @@ module "vpc" {
 
 ```
 
-eks.tf
+- eks.tf
 ```
 
 locals {
