@@ -13,8 +13,7 @@ k8s에서 오토 스케일 Web 애플리케이션을 실행하면 Deployment 및
 * kubectl v1.13.1
 * aws cli 1.16.70
 * ~ / .aws / credentials도 구성된합니다
-* aws-iam-authenticator
-* heptio-authenticator-aws에서 이름이 바뀌어 있기 때문에주의하십시오
+* aws-iam-authenticator heptio-authenticator-aws에서 이름이 바뀌어 있기 때문에주의하십시오
 * helm v2.12.1
 * terraform v0.11.10
 * jq 1.6
