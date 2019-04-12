@@ -178,7 +178,7 @@ subjects:
 
 ```
 $ kubectl apply -f helm/rbac.yaml
-$ helm init --service-account tiller
+$ helm init --service-account tiller --upgrade
 ```
 
 tiller의 Pod가 시작되면 Helm 설치가 완료됩니다.
