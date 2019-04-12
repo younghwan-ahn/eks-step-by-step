@@ -249,7 +249,7 @@ ip-10-0-1-211.ap-northeast-1.compute.internal   30m          3%     330Mi       
 HPA 동작은 CA와 함께 확인 할 것입니다.
 
 #### 참고
-[VP DNS 사용](https://docs.aws.amazon.com/ja_jp/vpc/latest/userguide/vpc-dns.html)
+[VPC DNS 사용](https://docs.aws.amazon.com/ja_jp/vpc/latest/userguide/vpc-dns.html)
 [terraform-aws-modules/terraform-aws-vpc - variables.tf](https://github.com/terraform-aws-modules/terraform-aws-vpc/blob/master/variables.tf)
 
 ### Cluster Autoscaler
